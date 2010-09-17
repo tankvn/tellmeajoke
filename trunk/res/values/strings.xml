@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Tell Me A Joke</string>
+  <string name="loadingData">Loading data...</string>
+  <string name="stopRecognizer">Stop recognition</string>
+  <string name="recognizeSpeech">Recognize speech</string>
+	<string name="prep_synth_failed">Failed to initialize speech synthesizer</string>
+  <string name="prep_recog_failed">Failed to initialize speech recognition</string>
+  <string name="prep_jokes_failed">Failed to initialize joke database</string>
+	<string name="title_install_data">Install Language data?</string>
+	<string name="alert_install_data">Type and Speak requires speech synthesis data.\n\nClick OK to download Google\'s synthesis data installer from the App Market.</string>
+  
+  <string name="report_url">http://www.googamaphone.com/bugreport.php</string>
+  <string name="contact_email">support@googamaphone.com</string>
+  <string name="contact_dev">Contact Developer</string>
+  <string name="contact_subject">Feedback for %s</string>
+  <string name="contact_body">Hi, ...\n\n\nApplication: %s\nPackage: %s\nVersion: %s\nPhone model: %s\nOS version: %s</string>
+</resources>
